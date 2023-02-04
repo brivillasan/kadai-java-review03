@@ -1,6 +1,6 @@
 package baseball;
 
-public class Reviw03 {
+public class Review03 {
 
     public static void main(String[] args) {
         BaseBallTeam team1 = new BaseBallTeam("東京ヤクルトスワローズ",80,59,4);
